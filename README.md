@@ -81,10 +81,7 @@ Este relatório tem como objetivo identificar qual das quatro lojas do Senhor Jo
 2. Realocar estoque para outras lojas
 3. Planejar estratégia de venda do ponto comercial
 
-## Anexos
-- [Gráfico 1: Evolução de Faturamento por Estado](link_grafico1)
-- [Gráfico 2: Distribuição de Categorias por Loja](link_grafico2)
-- [Gráfico 3: Relação Frete × Avaliação](link_grafico3)
+
 
 **Relatório gerado em:** 19/04/2025  
 **Responsável pela análise:** Maicon Leal
